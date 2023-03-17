@@ -1,11 +1,11 @@
 Please go under edit and edit this file as needed for your project
 
-# Team Name - 
+# Team Name - Cyan
 # Project Group - 
-### Group Leader - IT20212232 - Mr. Asiri Gamage (asiriRepos)
-### Member 2 - 
-### Member 3 - 
-### Member 4 - 
+### Group Leader - IT20708276 - Udani Navaratne (IT20708276)
+### Member 2 - IT21054686 - Hewage R.P
+### Member 3 - IT21035876 - Kiriella K.G.A.K
+### Member 4 - IT21007538 - Maddumage P.W. 
 
 #### Brief Description of your Solution - 
 
