@@ -8,16 +8,16 @@ Please go under edit and edit this file as needed for your project
 ### Member 4 - IT21007538 - Maddumage P.W. (IT21007538)
 
 ####This application makes it easier for foodies to share and treasure their fondest culinary memories. Implements using the Following technologies
-####1.Front End - ReactJS
-####2.BackEnd - Spring,Springboot
-####3.Database - H2,MySQL
+1.Front End - ReactJS
+2.BackEnd - Spring,Springboot
+3.Database - H2,MySQL
 
 
-###Functions:
-####Post Management Function: IT20708276
-####User Management/Profile :IT21035876
-####Comment Management(Interaction Management) : IT21054686
-####Like/Dislike, Follow/Unfollow Management(Interaction Management) :IT21007538
+Functions:
+Post Management Function: IT20708276
+User Management/Profile :IT21035876
+Comment Management(Interaction Management) : IT21054686
+Like/Dislike, Follow/Unfollow Management(Interaction Management) :IT21007538
 
 
 
