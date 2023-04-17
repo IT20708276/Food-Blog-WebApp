@@ -1,0 +1,21 @@
+label,
+input,
+button {
+    margin: 10px;
+    padding: 5px;
+}
+
+footer {
+    bottom: 0;
+    position: absolute;
+    width: 90%;
+    height: 40px;
+
+}
+
+.addPostbtn{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+
+}
