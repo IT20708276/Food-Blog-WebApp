@@ -54,7 +54,7 @@ public class PostJPAResource {
 		this.postService = postService;
 		this.postrepository = postrepository;
 	}
-	
+	//get mapping for to retireve posts by one user
 	@GetMapping("/users/{username}/posts")
 	public ResponseEntity<List<Post>> retrievePosts(@PathVariable String username) throws IOException {
 		 List<Post> post = postrepository.findByUserName(username);
@@ -69,6 +69,7 @@ public class PostJPAResource {
 		
 	}
 	
+	//get mapping to retrieve a perticular post
 	@GetMapping("/users/{username}/posts/{number}")
 	public Post retrievePost(@PathVariable String username
 			,@PathVariable int number) {
@@ -107,6 +108,7 @@ public class PostJPAResource {
 //	    }
 //	}
 //	
+	//retrieve a post based on the location
 	@GetMapping("/users/{username}/posts/location/{location}")
 	public ResponseEntity<List<Post>> retrievePostsByLocationPartial(@PathVariable String username,
 	                                                           @PathVariable String location) throws IOException {
